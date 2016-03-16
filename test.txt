@@ -1,0 +1,3 @@
+I am starting with freecodecamp
+also i am using cloud9 ide which i cool with all the features
+I am liking git-it
